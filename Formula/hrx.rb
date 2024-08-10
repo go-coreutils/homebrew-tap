@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Gassc < Formula
+class Hrx < Formula
   desc "Human-Readable archive utility"
   homepage "https://github.com/go-coreutils/hrx"
   license "Apache-2.0"
