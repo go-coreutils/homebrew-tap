@@ -30,6 +30,10 @@ Go sass compiler.
 
 Go mod updater.
 
+### hrx
+
+Human-readable archive utility.
+
 ## Installation
 
 `brew install go-coreutils/tap/<formula>`
