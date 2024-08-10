@@ -5,7 +5,7 @@ class Gassc < Formula
   desc "Go-Enjin libsass compiler"
   homepage "https://go-enjin.org"
   license "Apache-2.0"
-  head "https://github.com/go-coreutils/gassc.git", branch: "release-v0.2.6"
+  head "https://github.com/go-coreutils/gassc.git", branch: "release-v0.3.0"
 
   depends_on "go" => :build
 

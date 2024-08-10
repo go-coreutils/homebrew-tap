@@ -5,7 +5,7 @@ class Strcaseto < Formula
   desc "Convert strings to a specific strcase such as CamelCase or SCREAMING-KEBAB."
   homepage "https://go-curses.org"
   license "Apache-2.0"
-  head "https://github.com/go-coreutils/strcaseto.git", branch: "release-v0.1.0"
+  head "https://github.com/go-coreutils/strcaseto.git", branch: "release-v0.2.0"
 
   depends_on "go" => :build
 
